@@ -1,0 +1,22 @@
+# Build artifacts
+firmware/build/
+firmware/sdkconfig
+firmware/sdkconfig.old
+
+# Credentials / secrets
+firmware/main/secrets.h
+firmware/main/credentials.h
+*.pem
+*.key
+*.crt
+*.der
+secure_boot_signing_key.pem
+flash_encryption_key.bin
+.env
+
+# Structured data backing the generated docs/*.md files - not needed by readers
+docs/.data/
+
+# KiCad backups
+hardware/**/*-backups/
+hardware/**/_autosave-*

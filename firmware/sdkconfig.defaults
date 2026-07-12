@@ -1,0 +1,2 @@
+# Default ESP-IDF configuration for 1-2-pwm-led-fade
+CONFIG_ESP32_DEFAULT_CPU_FREQ_160=y
