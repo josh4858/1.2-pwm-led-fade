@@ -11,7 +11,7 @@
   "clangd.arguments": [
     "--background-index",
     "--query-driver=**",
-    "--compile-commands-dir=C:\\dev\\ESP32\\1.2-pwm-led-fade\\firmware\\build"
+    "--compile-commands-dir=c:\\dev\\ESP32\\1.2-pwm-led-fade\\build"
   ],
   "idf.portWin": "COM6",
   "idf.flashType": "UART",

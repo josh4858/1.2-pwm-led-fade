@@ -50,6 +50,6 @@ void app_main(void)
         if(duty == 0) {
             direction = 1;
         }
-        vTaskDelay(pdMS_TO_TICKS(10));
+        vTaskDelay(pdMS_TO_TICKS(20));
     }
 }

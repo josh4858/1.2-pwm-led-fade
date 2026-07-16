@@ -1,11 +1,11 @@
 # Build artifacts
-firmware/build/
-firmware/sdkconfig
-firmware/sdkconfig.old
+build/
+sdkconfig
+sdkconfig.old
 
 # Credentials / secrets
-firmware/main/secrets.h
-firmware/main/credentials.h
+main/secrets.h
+main/credentials.h
 *.pem
 *.key
 *.crt

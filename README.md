@@ -15,9 +15,11 @@
 ## Repo layout
 
 ```
-docs/          requirements, BOM, design calculations, test results, evidence
-hardware/      KiCad schematic + PCB layout
-firmware/      ESP-IDF source (this is the project root for idf.py — open this folder to build/flash)
+CMakeLists.txt   ESP-IDF project root — open THIS folder to build/flash
+main/            firmware source (app_main lives here)
+sdkconfig.defaults
+docs/            requirements, BOM, design calculations, test results, evidence
+hardware/        KiCad schematic + PCB layout
 ```
 
 ## Lessons learned
