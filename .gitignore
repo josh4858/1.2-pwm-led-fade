@@ -17,6 +17,9 @@ flash_encryption_key.bin
 # Structured data backing the generated docs/*.md files - not needed by readers
 docs/.data/
 
+# Embedded Assistant extension state (also in global gitignore, kept here for clarity)
+.embedded-mastery/
+
 # KiCad backups
 hardware/**/*-backups/
 hardware/**/_autosave-*
