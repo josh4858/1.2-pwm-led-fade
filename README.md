@@ -1,14 +1,14 @@
 # 1-2-pwm-led-fade
 
-<!-- One-line summary of what this device does. -->
+Sunrise desk-lamp dimmer: an ESP32 fades an LED smoothly from off to full brightness and back over a continuous 3-second cycle, using PWM (LEDC) with no visible flicker or stepping.
 
 ## Status
 
-- [ ] Requirements defined
-- [ ] Components selected & BOM complete
-- [ ] Design calculations complete
-- [ ] Schematic captured (KiCad)
-- [ ] Prototype built & verified
+- [x] Requirements defined
+- [x] Components selected & BOM complete
+- [x] Design calculations complete
+- [x] Schematic captured (KiCad)
+- [x] Prototype built & verified
 - [ ] PCB ordered
 - [ ] Assembled & bring-up tested
 
@@ -28,4 +28,6 @@ hardware/        KiCad schematic + PCB layout
 
 ## Photos
 
-<!-- Drop key photos of the finished build here. -->
+![Prototype](docs/evidence/prototype-verification/PWM_LED.jpg)
+
+[Fade demo video](docs/evidence/prototype-verification/PWM_LED.mp4)
