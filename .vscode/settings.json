@@ -15,5 +15,6 @@
   ],
   "idf.portWin": "COM6",
   "idf.flashType": "UART",
-  "C_Cpp.intelliSenseEngine": "disabled"
+  "C_Cpp.intelliSenseEngine": "disabled",
+  "cmake.configureOnOpen": false
 }
