@@ -5,8 +5,7 @@ Derived automatically from Stage 1, 5, and 7 data. Do not hand-edit — regenera
 <!-- SECTION:traceability-matrix:START -->
 | ID | Category | Requirement | Status | Stage 5 (Prototype) | Stage 7 (Bring-up) |
 |----|----------|-------------|--------|----------------------|---------------------|
-| REQ-001 | Functional | The device shall configure an LEDC PWM channel. | Draft | — | — |
-| REQ-002 | Functional | The device shall sweep duty cycle to fade an LED smoothly. | Draft | — | — |
-| REQ-003 | Functional | The device shall understand duty cycle vs. frequency vs. resolution. | Draft | — | — |
-| REQ-004 | Performance | Current draw shall not exceed ___ mA under normal operation. | Draft | — | — |
+| REQ-001 | Functional | The LED shall be driven by a PWM signal that prevents visible flicker | Draft | — | — |
+| REQ-002 | Functional | The LED brightness shall transition continuously from off to full brightness wit | Draft | — | — |
+| REQ-004 | Functional | The LED shall fade from off to full brightness, then back to off, in one continu | Draft | — | — |
 <!-- SECTION:traceability-matrix:END -->
