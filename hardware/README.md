@@ -20,3 +20,17 @@ Redraw the breadboard circuit formally here once Stage 4 (Schematic capture) beg
 
 [esp32_pwm_led_v1.pdf](../docs/evidence/schematic-capture/esp32_pwm_led_v1.pdf)
 <!-- SECTION:schematic-capture-evidence:END -->
+
+<!-- SECTION:pcb-layout:START -->
+## Stage 5 — PCB Layout & Fabrication
+
+| Note (fab house, order #, cost, revision) |
+| --- |
+|   |
+<!-- SECTION:pcb-layout:END -->
+
+<!-- SECTION:pcb-layout-evidence:START -->
+**Evidence — 5. PCB layout & fabrication**
+
+_No evidence attached yet._
+<!-- SECTION:pcb-layout-evidence:END -->
