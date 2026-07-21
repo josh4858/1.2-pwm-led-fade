@@ -19,6 +19,8 @@ Redraw the breadboard circuit formally here once Stage 4 (Schematic capture) beg
 **Evidence — 3. Schematic capture (KiCad)**
 
 [esp32_pwm_led_v1.pdf](../docs/evidence/schematic-capture/esp32_pwm_led_v1.pdf)
+
+[ESP32_PWM_LED.kicad_sch](../docs/evidence/schematic-capture/ESP32_PWM_LED.kicad_sch)
 <!-- SECTION:schematic-capture-evidence:END -->
 
 <!-- SECTION:pcb-layout:START -->
