@@ -1253,7 +1253,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "942ab4c4-b773-4eef-ac1a-2fa864c32878")
-		(property "Reference" "12mA"
+		(property "Reference" "LED1"
 			(at 124.46 95.5675 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1326,7 +1326,7 @@
 		(instances
 			(project "ESP32_PWM_LED"
 				(path "/f26ee2fa-cdb6-4822-b85b-4ecde553fec1"
-					(reference "12mA")
+					(reference "LED1")
 					(unit 1)
 				)
 			)
@@ -1548,7 +1548,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "220"
+		(property "Value" "100"
 			(at 139.7 81.2799 0)
 			(show_name no)
 			(do_not_autoplace no)
