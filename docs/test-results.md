@@ -13,7 +13,7 @@ _Record each requirement's verification result here._
 | --- | --- | --- | --- |
 | REQ-001 | Demonstration |  | PASS |
 | REQ-002 | Demonstration |  | PASS |
-| REQ-004 | Demonstration |  | PASS |
+| REQ-004 | Demonstration | 3 seconds | PASS |
 <!-- SECTION:prototype-verification:END -->
 
 <!-- SECTION:prototype-verification-evidence:START -->
