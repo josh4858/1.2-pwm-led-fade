@@ -7,4 +7,5 @@
 | Current-limiting resistor | 1 per LED | (calculate in Design & Calculations from the LED's Vf/max current) 220ohm |  |  | Elegoo  | Unknown | https://www.elegoo.com/en-gb/blogs/arduino-projects/elegoo-17-values-1-resistor-kit?srsltid=AfmBOoqimwSZ3VHOPm3D5BDCavBoAwQZ-wPw3cdbE6AVqwGtSRVKA3zo | Every LED on a GPIO needs a series resistor to keep current within its rated max — the value comes from Stage 2b, not guessed here. |
 | ESP32 DevKitC |  | ESP32-WROOM-32 | 3.3 (logic), 5 (USB in) | ~80 (idle) up to ~240 (Wi-Fi peaks) | The Pi Hut | £8–£12 | https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf | The MCU board itself — every project needs it. |
 | Jumper cable | 2 |  |  |  | Elegoo |  | https://uk.elegoo.com/products/elegoo-multicolored-dupont-wire-kit?srsltid=AfmBOoqGpRyWFlf8dXZQWj2K2zP8LuEKXoaVTxfWAT5n3jTXNa7wHRE8 | To connect from GPIO pin to the resistor path going to the LED and one jumper cable to connect from cathode to GND. |
+| Breadboard | 1 |  |  |  | elegoo | £3 | https://www.amazon.co.uk/ELEGOO-Breadboard-Solderless-Distribution-Connecting/dp/B01M0QJTI5?th=1 | To test circuit  |
 <!-- SECTION:bom:END -->
